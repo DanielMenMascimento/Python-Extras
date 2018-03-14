@@ -1,3 +1,3 @@
 # Python-Extras
-# Curso em Vídeo (www.cursoemvideo.com)
+# Anotações pessoais, observações e testes
 Python 3
